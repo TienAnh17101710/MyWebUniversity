@@ -37,9 +37,9 @@
 
         <div>
             <h2>Gallery</h2>
-            <img src="https://daihoc.fpt.edu.vn/en/wp-content/uploads/2022/09/FPTUHN-2.jpg" alt="University of Michigan Block M" width="30%">
-            <img src="https://worldarchitecture.org/files/bin/?file=14e41e22ac2484b9bef3093824e4f40d.jpg" alt="University of Michigan Diag" width="30%">
-            <img src="https://megabase.eduniversal.com/uploads/school/413/banner.jpg?v=413_20231215" alt="University of Michigan Law Quad" width="30%">
+            <img src="https://daihoc.fpt.edu.vn/en/wp-content/uploads/2022/09/FPTUHN-2.jpg" alt="University of FPT " width="30%">
+            <img src="https://worldarchitecture.org/files/bin/?file=14e41e22ac2484b9bef3093824e4f40d.jpg" alt="University of FPT" width="30%">
+            <img src="https://megabase.eduniversal.com/uploads/school/413/banner.jpg?v=413_20231215" alt="University of FPT" width="30%">
         </div>
 
     </main>
